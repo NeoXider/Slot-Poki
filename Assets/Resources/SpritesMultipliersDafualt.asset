@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd518837d5ec23a4caed312ce48e4802, type: 3}
+  m_Name: SpritesMultipliersDafualt
+  m_EditorClassIdentifier: 
+  _spritesMultiplier:
+    spriteMults:
+    - sprite: {fileID: -308287763, guid: adf38adbe0c554c428b962c17a4bc91c, type: 3}
+      countMult:
+      - count: 3
+        mult: 0.5
+      - count: 4
+        mult: 1
+      - count: 5
+        mult: 2
+    - sprite: {fileID: 1454889966, guid: adf38adbe0c554c428b962c17a4bc91c, type: 3}
+      countMult:
+      - count: 3
+        mult: 0.2
+      - count: 4
+        mult: 0.5
+      - count: 5
+        mult: 1
+    - sprite: {fileID: 1535262896, guid: adf38adbe0c554c428b962c17a4bc91c, type: 3}
+      countMult:
+      - count: 3
+        mult: 0.5
+      - count: 4
+        mult: 1
+      - count: 5
+        mult: 2
+    - sprite: {fileID: 58651989, guid: adf38adbe0c554c428b962c17a4bc91c, type: 3}
+      countMult:
+      - count: 3
+        mult: 0.5
+      - count: 4
+        mult: 1
+      - count: 5
+        mult: 2
+    - sprite: {fileID: 1270346717, guid: adf38adbe0c554c428b962c17a4bc91c, type: 3}
+      countMult:
+      - count: 3
+        mult: 0.5
+      - count: 4
+        mult: 1
+      - count: 5
+        mult: 2
+    - sprite: {fileID: 2080165653, guid: adf38adbe0c554c428b962c17a4bc91c, type: 3}
+      countMult:
+      - count: 3
+        mult: 2
+      - count: 4
+        mult: 3
+      - count: 5
+        mult: 4
+    - sprite: {fileID: -1330702604, guid: adf38adbe0c554c428b962c17a4bc91c, type: 3}
+      countMult:
+      - count: 3
+        mult: 1
+      - count: 4
+        mult: 1.5
+      - count: 5
+        mult: 2.5
+    - sprite: {fileID: 591006000, guid: adf38adbe0c554c428b962c17a4bc91c, type: 3}
+      countMult:
+      - count: 3
+        mult: 2
+      - count: 4
+        mult: 4
+      - count: 5
+        mult: 8
+    - sprite: {fileID: -2077417012, guid: adf38adbe0c554c428b962c17a4bc91c, type: 3}
+      countMult:
+      - count: 3
+        mult: 2
+      - count: 4
+        mult: 2.5
+      - count: 5
+        mult: 4
+    - sprite: {fileID: -639337961, guid: adf38adbe0c554c428b962c17a4bc91c, type: 3}
+      countMult:
+      - count: 3
+        mult: 1
+      - count: 4
+        mult: 2
+      - count: 5
+        mult: 3
+    - sprite: {fileID: 872106591, guid: adf38adbe0c554c428b962c17a4bc91c, type: 3}
+      countMult:
+      - count: 3
+        mult: 2
+      - count: 4
+        mult: 5
+      - count: 5
+        mult: 10
+  _generate: 0
+  _minCount: 3
+  _maxCount: 5
+  defaultMultiplayer: 1
+  _spritesData: {fileID: 11400000, guid: e0479231dbbeb0842920e81a0d3a00a5, type: 2}
